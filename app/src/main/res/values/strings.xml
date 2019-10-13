@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ridobiko</string>
+    <string name="city_prompt">Choose a city</string>
+
+    <string-array name="city_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>
